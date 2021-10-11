@@ -1,0 +1,1 @@
+printjson(db.cwiczenie1.find({ sex: 'Male', nationality: 'Germany' }).toArray())
