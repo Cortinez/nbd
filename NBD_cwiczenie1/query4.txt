@@ -1,0 +1,1 @@
+printjson(db.cwiczenie1.find({ weight: {$gt:'68', $lt:'71.5'} }).toArray())
