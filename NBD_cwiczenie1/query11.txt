@@ -1,1 +1,1 @@
-printjson(db.cwiczenie1.find({ first_name: 'Wayne', last_name: 'Fields', nationality: 'Nigeria' }).toArray())
+printjson(db.cwiczenie1.findOne({ first_name: 'Wayne' }).toArray())
