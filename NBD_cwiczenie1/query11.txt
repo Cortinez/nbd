@@ -1,1 +1,0 @@
-printjson(db.cwiczenie1.findOne({ first_name: 'Wayne' }).toArray())
