@@ -1,1 +1,1 @@
-# Rozwiązania zadań - PJATK NBD
+#PJATK NBD
