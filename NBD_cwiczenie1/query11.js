@@ -1,0 +1,1 @@
+printjson(db.cwiczenie1.findOne({ nationality: 'Nigeria' }))
