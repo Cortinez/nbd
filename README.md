@@ -1,2 +1,1 @@
-# nbd
-pjatk NBD
+# Rozwiązania zadań - PJATK NBD
